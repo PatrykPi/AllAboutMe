@@ -1,4 +1,15 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: inherit
+}
+
+:root{
+    --navbar-font-color: rgb(179, 179, 179);
+    --light-font-color: rgb(226, 226, 226);
 }
